@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **C, C++**
 
-- 👨‍💻 My profile link [https://guns.lol/tooredcap](https://guns.lol/tooredcap)
-
 - 💬 Ask me about **Python, Sql**
+
+- 👨‍💻 My profile link [tooredcap](https://guns.lol/tooredcap)
 
 - ⚡ Fun fact **I love coding | Join my discord server btw.**
 

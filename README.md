@@ -24,7 +24,7 @@ I enjoy turning ideas into actual products — from small utilities and automati
 - 🧠 Working with **AI APIs & agent-style systems**
 - 🌐 Building **web apps, dashboards & APIs**
 - 🎮 Interested in **game development & Roblox**
-- 🛠️ Love experimenting with new technologies and turning random ideas into projects
+- 🛠️ Love experimenting with new technologies and turning ideas into products
 - 🚀 Always building something
 
 ---
@@ -32,49 +32,78 @@ I enjoy turning ideas into actual products — from small utilities and automati
 ### 🧩 What I Build
 
 ```text
-🤖 Discord        Bots • Moderation • Automation • Notifications
-🧠 AI             AI integrations • Agents • API workflows
-🌐 Web             Dashboards • APIs • Full-stack applications
-⚙️ Automation      Scrapers • Workflows • Utilities • Integrations
-🎮 Games           Roblox • Game systems • Game-related tools
-🗄️ Backend         APIs • Databases • Authentication • Data systems
+🤖 Discord         Bots • Moderation • Automation • Notifications
+🧠 AI              AI Integrations • Agents • API Workflows
+🌐 Web              Dashboards • APIs • Full-Stack Applications
+⚙️ Automation       Workflows • Utilities • Integrations
+🎮 Games            Roblox • Game Systems • Game Tools
+🗄️ Backend          APIs • Databases • Authentication • Data Systems
 ```
+
+---
+
+### 🚀 Projects
+
+#### 🛡️ Cenaro — Current Project
+
+<p>
+  <a href="https://cenaro.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-Cenaro-7c3aed?style=for-the-badge" />
+  </a>
+</p>
+
+**Cenaro** is my current Discord bot project — built around the idea of combining powerful server management, automation and AI into a single platform.
+
+**Currently building:**
+
+- 🧠 AI-powered server assistance & agent integrations
+- ⚙️ Custom workflow automation
+- 🛡️ Anti-nuke & server security
+- 📈 Advanced leveling & progression
+- 🎉 Interactive giveaways
+- 🎫 Ticket & support systems
+- 👋 Welcome & invite systems
+- 🔗 Webhooks, triggers & automated actions
+- 🌐 Modern web dashboard
+
+> **One bot. Powerful automation. Built for Discord.**
+
+---
+
+#### 🤖 RankBreaker — Previous Project
+
+<p>
+  <a href="https://rankbreaker.xyz">
+    <img src="https://img.shields.io/badge/Website-RankBreaker-5865F2?style=for-the-badge" />
+  </a>
+</p>
+
+**RankBreaker** was one of my major Discord bot projects, focused on **community automation, gaming integrations and server utilities**.
+
+**Built features including:**
+
+- 🎮 Roblox game & event notifications
+- 🎉 Automated giveaways
+- 📊 Leveling & leaderboards
+- 📢 Auto Publisher
+- 🏗️ Server Designer
+- ⚙️ Server automation & utilities
+
+RankBreaker helped me explore building and maintaining a production Discord bot before moving on to **Cenaro**, my current project.
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,html,css,tailwind,express,mongodb,mysql,sqlite,git,github,vercel,cloudflare,blender&perline=9" />
-
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,html,css,tailwind,express,mongodb,mysql,sqlite,git,github,vercel,cloudflare,blender&perline=9" />
 </p>
 
 ### 🔧 Currently Working With
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,nextjs,react,mongodb,mysql,git,github&perline=10" />
-
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,nextjs,react,mongodb,mysql,git,github&perline=10" />
 </p>
-
----
-
-### 🚀 Featured Projects
-
-#### 🤖 RankBreaker
-A Discord bot focused on **game notifications, server automation, leveling, giveaways and utility systems**.
-
-> Smart automation • Game alerts • Giveaways • Leveling • Server tools
-
-#### 🛡️ Cenaro
-A Discord management and moderation system with **automation, moderation workflows, logging and server management features**.
-
-#### 🧠 AI Projects
-Experimenting with **LLM APIs, AI agents, automation workflows and AI-powered developer tools**.
-
-#### 🌐 Web Projects
-Building modern web experiences using **Next.js, React, Tailwind and modern frontend tooling**.
 
 ---
 

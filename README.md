@@ -1,31 +1,117 @@
-<h1 align="center">Hi 👋, I'm Captain</h1>
-<h3 align="center">Bot Devloper and Game Devloper</h3>
+<h1 align="center">Hey, I'm Captain 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=captaintsu&label=Profile%20views&color=0e75b6&style=flat" alt="captaintsu" /> </p>
-
-<p align="left"> <a href="https://twitter.com/tooredcap" target="blank"><img src="https://img.shields.io/twitter/follow/tooredcap?logo=twitter&style=for-the-badge" alt="tooredcap" /></a> </p>
-
-- 🌱 I’m currently learning **C, C++**
-
-- 💬 Ask me about **Python, Sql**
-
-- 👨‍💻 My profile link [tooredcap](https://guns.lol/tooredcap)
-
-- ⚡ Fun fact **I love coding | Join my discord server btw.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tooredcap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tooredcap" height="30" width="40" /></a>
-<a href="https://instagram.com/red_cap69420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="red_cap69420" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@captain_tsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="captain_tsu" height="30" width="40" /></a>
-<a href="https://discord.gg/AkWYfFPVdj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AkWYfFPVdj" height="30" width="40" /></a>
+<p align="center">
+  <b>Discord Bot Developer • Automation Engineer • AI & Web Developer</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://guns.lol/tooredcap">guns.lol</a>
+  •
+  <a href="https://discord.gg/AkWYfFPVdj">Discord</a>
+  •
+  <a href="https://github.com/captaintsu">GitHub</a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=captaintsu&show_icons=true&locale=en&layout=compact" alt="captaintsu" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=captaintsu&show_icons=true&locale=en" alt="captaintsu" /></p>
+### ⚡ About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captaintsu&" alt="captaintsu" /></p>
+I'm a developer focused on building **Discord bots, automation systems, AI-powered tools, and web applications**.
+
+I enjoy turning ideas into actual products — from small utilities and automation scripts to full-scale bots, dashboards, APIs, and game-related systems.
+
+- 🤖 Building **Discord bots & automation systems**
+- 🧠 Working with **AI APIs & agent-style systems**
+- 🌐 Building **web apps, dashboards & APIs**
+- 🎮 Interested in **game development & Roblox**
+- 🛠️ Love experimenting with new technologies and turning random ideas into projects
+- 🚀 Always building something
+
+---
+
+### 🧩 What I Build
+
+```text
+🤖 Discord        Bots • Moderation • Automation • Notifications
+🧠 AI             AI integrations • Agents • API workflows
+🌐 Web             Dashboards • APIs • Full-stack applications
+⚙️ Automation      Scrapers • Workflows • Utilities • Integrations
+🎮 Games           Roblox • Game systems • Game-related tools
+🗄️ Backend         APIs • Databases • Authentication • Data systems
+```
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,html,css,tailwind,express,mongodb,mysql,sqlite,git,github,vercel,cloudflare,blender&perline=9" />
+
+</p>
+
+### 🔧 Currently Working With
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,nextjs,react,mongodb,mysql,git,github&perline=10" />
+
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🤖 RankBreaker
+A Discord bot focused on **game notifications, server automation, leveling, giveaways and utility systems**.
+
+> Smart automation • Game alerts • Giveaways • Leveling • Server tools
+
+#### 🛡️ Cenaro
+A Discord management and moderation system with **automation, moderation workflows, logging and server management features**.
+
+#### 🧠 AI Projects
+Experimenting with **LLM APIs, AI agents, automation workflows and AI-powered developer tools**.
+
+#### 🌐 Web Projects
+Building modern web experiences using **Next.js, React, Tailwind and modern frontend tooling**.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=captaintsu&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captaintsu&layout=compact&hide_border=true&theme=transparent" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=captaintsu&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Find Me
+
+<p align="center">
+  <a href="https://twitter.com/tooredcap">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45"/>
+  </a>
+  <a href="https://instagram.com/red_cap69420">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  </a>
+  <a href="https://www.youtube.com/@captain_tsu">
+    <img src="https://skillicons.dev/icons?i=youtube" width="45"/>
+  </a>
+  <a href="https://discord.gg/AkWYfFPVdj">
+    <img src="https://skillicons.dev/icons?i=discord" width="45"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=captaintsu&label=Profile%20Views&color=7c3aed&style=flat" />
+</p>
+
+<p align="center">
+  <i>Building things, breaking things, and occasionally fixing them.</i>
+</p>
